@@ -1,5 +1,5 @@
 sbin
-src/notary/build
+build
 
 # Created by https://www.gitignore.io/api/node,linux,macos,intellij,visualstudiocode
 
@@ -47,6 +47,7 @@ atlassian-ide-plugin.xml
 
 # Cursive Clojure plugin
 .idea/replstate.xml
+.idea
 
 # Ruby plugin and RubyMine
 /.rakeTasks
